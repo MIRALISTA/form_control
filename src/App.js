@@ -30,7 +30,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>My Form</h1>
+        <h1>My Form 2</h1>
         <form
           onSubmit={this.handleSubmit}
           style={{ width: "60%", margin: "2% auto" }}
